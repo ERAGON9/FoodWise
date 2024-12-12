@@ -1,4 +1,4 @@
-# FoodWise
+![FoodWise Logo](https://github.com/ERAGON9/FoodWise/blob/main/FoodWise%20Logo.png)
 
 
 # Overview
@@ -20,6 +20,7 @@ FoodWise is an innovative smart refrigerator project that integrates an IoT devi
 
 * **Personalized Notifications** - Set reminders for expiration dates, low stock, etc.
 
+![App Screens](https://github.com/ERAGON9/FoodWise/blob/main/AppScreens.png)
 
 # Technology Stack
 * **Backend:** Python, Flask, SQLite Database
